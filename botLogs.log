@@ -1,0 +1,1249 @@
+[2022-10-14 20:01:27,045](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-14 20:01:27,211](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-14 20:01:27,211](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-14 20:01:50,033](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-14 20:01:50,035](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-14 20:03:22,040](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-14 20:03:22,196](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-14 20:03:22,196](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-14 20:03:40,835](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-14 20:03:40,837](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-14 20:21:11,142](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-14 20:21:11,277](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-14 20:21:11,278](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-14 20:21:58,380](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-14 20:21:58,382](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-14 20:25:44,069](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-14 20:25:44,211](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-14 20:25:44,211](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-14 20:26:26,265](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-14 20:26:26,269](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-14 20:32:15,816](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-14 20:32:15,982](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-14 20:32:15,982](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-14 20:35:05,575](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-14 20:35:05,583](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-14 23:04:37,623](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-14 23:04:37,761](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-14 23:04:37,761](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-14 23:05:21,655](INFO): "main.py", line:25, start_command - New user: Анастасия
+[2022-10-14 23:05:39,149](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-14 23:05:39,151](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-17 19:12:46,915](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-17 19:12:47,050](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-17 19:12:47,051](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-17 19:25:22,939](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-17 19:25:22,962](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-17 19:26:10,584](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-17 19:26:10,739](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-17 19:26:10,739](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-17 19:28:28,558](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-17 19:28:28,576](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-17 19:28:33,260](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-17 19:28:33,405](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-17 19:28:33,406](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-17 19:31:38,827](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-17 19:31:38,852](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-17 19:31:43,550](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-17 19:31:43,703](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-17 19:31:43,703](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-17 19:34:08,032](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-17 19:34:08,046](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-17 19:34:13,085](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-17 19:34:13,236](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-17 19:34:13,237](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-17 19:34:17,532](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=TypeError("object NoneType can't be used in 'await' expression")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 65, in id_command
+    await message.sender_chat
+TypeError: object NoneType can't be used in 'await' expression
+[2022-10-17 19:34:30,166](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-17 19:34:30,168](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-17 19:37:04,476](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-17 19:37:04,612](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-17 19:37:04,612](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-17 19:40:17,964](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-17 19:40:18,000](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-17 19:40:24,345](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-17 19:40:24,503](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-17 19:40:24,503](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-17 19:41:52,678](INFO): "main.py", line:31, start_command - New user: Сергей
+[2022-10-17 19:42:17,851](INFO): "main.py", line:31, start_command - New user: Aleksey
+[2022-10-17 19:42:27,275](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-42' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/info'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 62, in id_command
+    if int(message.text) == i[0]:
+ValueError: invalid literal for int() with base 10: '/info'
+[2022-10-17 19:42:31,614](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-45' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/help'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 62, in id_command
+    if int(message.text) == i[0]:
+ValueError: invalid literal for int() with base 10: '/help'
+[2022-10-17 19:42:38,277](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-52' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/links'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 62, in id_command
+    if int(message.text) == i[0]:
+ValueError: invalid literal for int() with base 10: '/links'
+[2022-10-17 19:42:41,881](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-55' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/add'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 62, in id_command
+    if int(message.text) == i[0]:
+ValueError: invalid literal for int() with base 10: '/add'
+[2022-10-17 19:42:43,639](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-58' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/cancel'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 62, in id_command
+    if int(message.text) == i[0]:
+ValueError: invalid literal for int() with base 10: '/cancel'
+[2022-10-17 19:42:44,493](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-61' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/invite'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 62, in id_command
+    if int(message.text) == i[0]:
+ValueError: invalid literal for int() with base 10: '/invite'
+[2022-10-17 19:54:08,575](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-17 19:54:08,593](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-17 19:54:14,578](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-17 19:54:14,772](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-17 19:54:14,772](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-17 19:55:33,916](INFO): "main.py", line:31, start_command - New user: Roskvi
+[2022-10-17 20:00:28,391](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-66' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/add'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 62, in id_command
+    if int(message.text) == i[0]:
+ValueError: invalid literal for int() with base 10: '/add'
+[2022-10-17 20:00:31,698](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-69' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/links'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 62, in id_command
+    if int(message.text) == i[0]:
+ValueError: invalid literal for int() with base 10: '/links'
+[2022-10-17 20:00:33,323](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-72' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/cancel'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 62, in id_command
+    if int(message.text) == i[0]:
+ValueError: invalid literal for int() with base 10: '/cancel'
+[2022-10-17 20:11:18,689](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-17 20:11:18,707](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-17 20:14:54,208](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-17 20:14:54,361](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-17 20:14:54,361](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-17 20:15:03,020](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'coroutine' object has no attribute 'username'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 66, in id_command
+    await message.answer(otvet, data.username)
+AttributeError: 'coroutine' object has no attribute 'username'
+[2022-10-17 20:18:39,524](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-17 20:18:39,557](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-17 20:18:43,923](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-17 20:18:44,082](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-17 20:18:44,082](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-17 21:23:04,784](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-17 21:23:04,810](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 10:44:51,000](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 10:44:51,153](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 10:44:51,154](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 10:49:14,274](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 10:49:14,295](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 10:49:19,242](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 10:49:19,401](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 10:49:19,401](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 11:10:22,556](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 11:10:22,585](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 11:10:26,366](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 11:10:26,511](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 11:10:26,511](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 11:10:44,742](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: user')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 61, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 16, in get_username
+    cur.execute("SELECT username FROM all_users where user_id = user")
+sqlite3.OperationalError: no such column: user
+[2022-10-19 11:11:52,968](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-19' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/invite'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 61, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/invite'
+[2022-10-19 11:11:58,832](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-22' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/invite'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 61, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/invite'
+[2022-10-19 11:12:04,379](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-25' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: user')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 61, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 16, in get_username
+    cur.execute("SELECT username FROM all_users where user_id = user")
+sqlite3.OperationalError: no such column: user
+[2022-10-19 11:12:13,621](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-28' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/start'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 61, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/start'
+[2022-10-19 11:12:18,659](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 11:12:18,661](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 11:13:27,513](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 11:13:27,646](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 11:13:27,646](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 11:13:41,103](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-18' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: user')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 61, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 16, in get_username
+    cur.execute("SELECT username FROM all_users where user_id = user")
+sqlite3.OperationalError: no such column: user
+[2022-10-19 11:13:44,790](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 11:13:44,791](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 11:15:09,887](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 11:15:10,030](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 11:15:10,031](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 11:15:22,404](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: user')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 61, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 16, in get_username
+    cur.execute("SELECT username FROM all_users where user_id = user")
+sqlite3.OperationalError: no such column: user
+[2022-10-19 11:16:06,712](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 11:16:06,714](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 11:17:48,608](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 11:17:48,742](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 11:17:48,743](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 11:17:59,114](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: user')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 61, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 16, in get_username
+    cur.execute("SELECT username FROM all_users where user_id = user")
+sqlite3.OperationalError: no such column: user
+[2022-10-19 11:18:13,444](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 11:18:13,446](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 11:18:15,606](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 11:18:15,768](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 11:18:15,768](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 11:19:43,501](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 11:19:43,505](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 11:19:59,116](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 11:19:59,265](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 11:19:59,265](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 11:20:08,868](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: user')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 61, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 16, in get_username
+    cur.execute("SELECT username FROM all_users where user_id = user")
+sqlite3.OperationalError: no such column: user
+[2022-10-19 11:21:31,272](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 11:21:31,273](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 11:21:33,357](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 11:21:33,502](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 11:21:33,502](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 11:21:47,353](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: user')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 61, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 16, in get_username
+    cur.execute("SELECT username FROM all_users where user_id = user")
+sqlite3.OperationalError: no such column: user
+[2022-10-19 11:23:20,387](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 11:23:20,388](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 11:23:22,735](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 11:23:22,883](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 11:23:22,883](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 11:23:30,062](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: user')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 61, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 16, in get_username
+    cur.execute("SELECT username FROM all_users where user_id = user")
+sqlite3.OperationalError: no such column: user
+[2022-10-19 11:23:57,436](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 11:23:57,437](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 11:24:04,166](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 11:24:04,369](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 11:24:04,369](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 11:24:14,317](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: user')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 61, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 16, in get_username
+    cur.execute("SELECT username FROM all_users where user_id = user")
+sqlite3.OperationalError: no such column: user
+[2022-10-19 11:24:23,053](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 11:24:23,054](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 11:25:17,109](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 11:25:17,257](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 11:25:17,257](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 11:25:22,581](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: user')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 61, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 16, in get_username
+    cur.execute("SELECT username FROM all_users where user_id = user")
+sqlite3.OperationalError: no such column: user
+[2022-10-19 11:25:30,838](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 11:25:30,840](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 11:28:23,816](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 11:28:23,957](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 11:28:23,957](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 11:28:35,000](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: user')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 58, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 16, in get_username
+    cur.execute("SELECT username FROM all_users where user_id = user")
+sqlite3.OperationalError: no such column: user
+[2022-10-19 11:28:37,503](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-16' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/invite'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 58, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/invite'
+[2022-10-19 11:28:47,195](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 11:28:47,196](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 11:31:50,410](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 11:31:50,566](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 11:31:50,566](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 11:31:57,376](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/invite'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 58, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/invite'
+[2022-10-19 11:31:58,594](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-17' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/invite'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 58, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/invite'
+[2022-10-19 11:32:00,429](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-20' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/invite'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 58, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/invite'
+[2022-10-19 11:32:00,929](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-23' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/invite'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 58, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/invite'
+[2022-10-19 11:32:01,431](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-26' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/invite'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 58, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/invite'
+[2022-10-19 11:32:04,516](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 11:32:04,517](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 11:33:50,165](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 11:33:50,326](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 11:33:50,327](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 11:34:02,824](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: user')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 58, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 16, in get_username
+    cur.execute("SELECT username FROM all_users where user_id = user")
+sqlite3.OperationalError: no such column: user
+[2022-10-19 11:34:05,337](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-17' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/invite'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 58, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/invite'
+[2022-10-19 11:35:27,672](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 11:35:27,673](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 11:36:05,439](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 11:36:05,576](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 11:36:05,577](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 11:36:13,351](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: user')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 59, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 16, in get_username
+    cur.execute("SELECT username FROM all_users where user_id = user")
+sqlite3.OperationalError: no such column: user
+[2022-10-19 11:36:16,644](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-16' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/cancel'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 59, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/cancel'
+[2022-10-19 11:36:19,320](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-19' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/invite'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 59, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/invite'
+[2022-10-19 11:36:21,141](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-22' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/cancel'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 59, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/cancel'
+[2022-10-19 11:36:22,674](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-25' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/cancel'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 59, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/cancel'
+[2022-10-19 11:36:23,306](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-28' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/cancel'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 59, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/cancel'
+[2022-10-19 11:36:23,729](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-31' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/cancel'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 59, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/cancel'
+[2022-10-19 11:36:29,958](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 11:36:29,960](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 11:37:00,004](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 11:37:00,145](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 11:37:00,145](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 11:37:06,059](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: user')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 59, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 16, in get_username
+    cur.execute("SELECT username FROM all_users where user_id = user")
+sqlite3.OperationalError: no such column: user
+[2022-10-19 11:37:40,176](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 11:37:40,177](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 11:37:43,186](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 11:37:43,332](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 11:37:43,333](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 11:37:49,388](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: user')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 57, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 16, in get_username
+    cur.execute("SELECT username FROM all_users where user_id = user")
+sqlite3.OperationalError: no such column: user
+[2022-10-19 11:42:07,430](INFO): "main.py", line:32, start_command - New user: Иван
+[2022-10-19 11:48:55,476](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-57' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: user')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 57, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 16, in get_username
+    cur.execute("SELECT username FROM all_users where user_id = user")
+sqlite3.OperationalError: no such column: user
+[2022-10-19 11:49:06,281](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-60' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/invite'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 57, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/invite'
+[2022-10-19 11:49:10,627](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-63' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/invite'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 57, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/invite'
+[2022-10-19 11:49:11,680](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-66' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/invite'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 57, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/invite'
+[2022-10-19 11:49:15,922](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-69' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/cancel'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 57, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/cancel'
+[2022-10-19 11:49:17,061](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-72' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/invite'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 57, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/invite'
+[2022-10-19 11:49:23,015](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 11:49:23,016](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 11:50:16,006](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 11:50:16,139](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 11:50:16,139](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 11:50:47,694](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: user')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 59, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 16, in get_username
+    cur.execute("SELECT username FROM all_users where user_id = user")
+sqlite3.OperationalError: no such column: user
+[2022-10-19 11:51:06,200](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-21' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: user')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 59, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 16, in get_username
+    cur.execute("SELECT username FROM all_users where user_id = user")
+sqlite3.OperationalError: no such column: user
+[2022-10-19 11:52:44,708](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 11:52:44,711](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 11:52:46,838](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 11:52:46,974](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 11:52:46,975](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 11:52:58,432](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: user')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 59, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 16, in get_username
+    cur.execute("SELECT username FROM all_users where user_id = user")
+sqlite3.OperationalError: no such column: user
+[2022-10-19 11:53:47,159](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 11:53:47,161](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 11:54:58,714](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 11:54:59,450](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 11:54:59,450](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 11:55:05,882](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: user')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 59, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 16, in get_username
+    cur.execute("SELECT username FROM all_users where user_id = user")
+sqlite3.OperationalError: no such column: user
+[2022-10-19 11:55:09,275](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 11:55:09,275](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 11:56:43,640](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 11:56:43,802](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 11:56:43,803](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 11:56:50,041](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: user')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 59, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 17, in get_username
+    cur.execute("SELECT username FROM all_users where user_id=user")
+sqlite3.OperationalError: no such column: user
+[2022-10-19 12:02:52,573](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 12:02:52,587](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 12:02:55,632](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 12:02:55,772](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 12:02:55,772](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 12:03:32,773](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 12:03:32,774](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 12:03:35,830](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 12:03:35,996](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 12:03:35,996](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 12:03:42,778](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: firstname')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 59, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+  File "C:\Users\user\Desktop\test_python\app\sq_statement.py", line 17, in get_username
+    cur.execute(f'SELECT firstname FROM all_users where user_id = "{user}"')
+sqlite3.OperationalError: no such column: firstname
+[2022-10-19 12:04:03,332](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 12:04:03,334](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 12:04:05,433](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 12:04:05,584](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 12:04:05,585](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 12:26:02,570](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 12:26:02,611](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 12:26:05,561](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 12:26:05,698](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 12:26:05,698](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 12:28:34,262](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 12:28:34,284](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 12:28:37,167](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 12:28:37,319](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 12:28:37,320](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 12:28:39,381](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=BadRequest('Unsupported parse_mode')>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 108, in random_command
+    await message.answer("Выбор случайного игрока - ", random.choice(result))
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\types\message.py", line 397, in answer
+    return await self.bot.send_message(
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\bot\bot.py", line 341, in send_message
+    result = await self.request(api.Methods.SEND_MESSAGE, payload)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\bot\api.py", line 115, in check_result
+    exceptions.BadRequest.detect(description)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\utils\exceptions.py", line 141, in detect
+    raise cls(description)
+aiogram.utils.exceptions.BadRequest: Unsupported parse_mode
+[2022-10-19 12:28:44,758](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 12:28:44,760](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 12:30:03,463](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 12:30:03,602](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 12:30:03,602](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 12:34:42,597](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 12:34:42,613](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 12:34:45,824](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 12:34:45,975](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 12:34:45,975](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 12:41:21,255](INFO): "dispatcher.py", line:433, stop_polling - Stop polling...
+[2022-10-19 12:41:21,262](WARNING): "executor.py", line:329, start_polling - Goodbye!
+[2022-10-19 19:02:02,903](INFO): "executor.py", line:362, _welcome - Bot: Test_bot [@Kick59Rus_bot]
+[2022-10-19 19:02:03,062](WARNING): "executor.py", line:358, _skip_updates - Updates were skipped successfully.
+[2022-10-19 19:02:03,063](INFO): "dispatcher.py", line:358, start_polling - Start polling.
+[2022-10-19 19:31:20,090](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-144' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/random'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 58, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/random'
+[2022-10-19 19:34:27,867](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-161' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/links'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 58, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/links'
+[2022-10-19 19:34:33,787](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-164' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/add'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 58, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/add'
+[2022-10-19 19:34:35,533](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-167' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/cancel'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 58, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/cancel'
+[2022-10-19 19:34:46,425](ERROR): "base_events.py", line:1744, default_exception_handler - Task exception was never retrieved
+future: <Task finished name='Task-170' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=ValueError("invalid literal for int() with base 10: '/game'")>
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "C:\Users\user\Desktop\test_python\venv\lib\site-packages\aiogram\dispatcher\handler.py", line 116, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "C:\Users\user\Desktop\test_python\main.py", line 58, in id_command
+    resultat = get_username(DB_FILE, int(message.text))
+ValueError: invalid literal for int() with base 10: '/game'
